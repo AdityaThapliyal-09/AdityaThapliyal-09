@@ -24,21 +24,21 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Technologies
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle" />
 </p>
 
 ### 🔍 Currently Exploring
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,nodejs,js" />
 </p>
 
