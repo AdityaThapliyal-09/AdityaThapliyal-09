@@ -17,25 +17,29 @@
 - 🎓 BCA Student (2nd Year) from India  
 - 🤖 Learning to become an **AI Full Stack Engineer**  
 - 🏗️ I build **end-to-end products** (Frontend + Backend + AI)  
-- 📈 Focused on real-world projects & skill growth  
+- 📈 Focused on real-world projects & continuous growth  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle" />
 </p>
 
 ### 🔍 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,js" />
 </p>
 
 ---
@@ -61,11 +65,3 @@ To become an engineer who can:
 ## ⚡ Fun Fact
 
 > I’m not just learning to code — I’m learning to **build products that matter** 🚀
-
----
-
-## 🐍 Contribution Snake (because why not 😄)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
