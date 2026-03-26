@@ -26,12 +26,12 @@
 
 ## 🧠 About Me
 
-I'm **Aditya Thapliyal**, an AI Full Stack Engineer from India.
+I'm **Aditya Thapliyal**, an aspiring AI Full Stack Engineer from India.
 
 I build complete, production-ready AI-powered products — from database to frontend to deployed LLM systems. I don't just write code. I ship things that work in the real world.
 
-- 🎓 MCA Graduate · Dehradun, India
-- 🤖 Specialized in **AI Engineering** — LLMs, RAG systems, Agentic AI
+- 🎓 BCA 2nd Year Student · Dehradun, India
+- 🤖 Specializing in **AI Engineering** — LLMs, RAG systems, Agentic AI
 - 🏗️ Full stack builder — FastAPI · PostgreSQL · React · Next.js
 - 🧩 Every project I build is **live, deployed, and production-grade**
 - 🌍 Open to global opportunities — UAE · Germany · Canada · Singapore · UK
@@ -120,6 +120,7 @@ User Request
               Docker · AWS · Nginx
               GitHub Actions CI/CD
 ```
+
 ---
 
 ## 🎯 Expertise Areas
