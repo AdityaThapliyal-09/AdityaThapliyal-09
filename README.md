@@ -120,46 +120,6 @@ User Request
               Docker · AWS · Nginx
               GitHub Actions CI/CD
 ```
-
----
-
-## 🏗️ Featured Projects
-
-### 🤖 AI RAG Chatbot System
-> A production-grade RAG system that answers questions over custom documents using LLMs
-- FastAPI backend · ChromaDB vector store · OpenAI API
-- Next.js frontend · JWT auth · Docker deployed on AWS
-- Real-time streaming responses · Conversation memory
-
-### 🔍 Credit Card Fraud Detection System
-> End-to-end ML system detecting fraudulent transactions with 97%+ accuracy
-- XGBoost model · SMOTE for imbalanced data · SHAP explainability
-- FastAPI serving layer · PostgreSQL · React dashboard
-- Deployed live with monitoring via Sentry
-
-### 🎯 AI Recommendation Engine
-> Netflix-style recommendation system with LLM-powered explanations
-- Collaborative filtering · Matrix factorization
-- LangChain for natural language explanations
-- Full stack — Next.js · FastAPI · MongoDB
-
-### 🤖 Agentic AI Assistant
-> Multi-step AI agent that plans, reasons, and executes tasks autonomously
-- LangChain agents · Tool use · Memory management
-- MCP protocol integration
-- FastAPI · Redis · Docker
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaThapliyal-09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaThapliyal-09&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 ---
 
 ## 🎯 Expertise Areas
