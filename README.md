@@ -1,162 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Thapliyal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Full%20Stack%20Engineer&descAlignY=52&descAlign=50" />
+# Aditya Thapliyal
+### AI Full Stack Engineer
 
-</div>
+Building at the intersection of Artificial Intelligence, Full Stack Engineering, and Product Design.
 
-<div align="center">
+<br/>
 
-### Building intelligent systems · Shipping real products · Writing code that matters
+<a href="https://adityathapliyal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:desktodev@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/aditya-thapliyal"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/AdityaThapliyal-09"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<p>
-  <a href="mailto:adityathapliyal52@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-thapliyal-907409384">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AdityaThapliyal-09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
+<br/>
 </div>
 
 ---
 
-## 🧠 About Me
+##  Driven by design. Powered by AI.
 
-I'm **Aditya Thapliyal**, an aspiring AI Full Stack Engineer from India.
+> *"I believe the best products disappear into the background, leaving only the experience."*
 
-I build complete, production-ready AI-powered products — from database to frontend to deployed LLM systems. I don't just write code. I ship things that work in the real world.
+I'm a 5th-semester BCA student at Graphic Era Hill University in Dehradun, India. While many engineers focus strictly on the implementation, I focus on the outcome. I build premium, end-to-end digital products that solve real human problems, heavily utilizing Artificial Intelligence to create magical, frictionless experiences. 
 
-- 🎓 BCA 2nd Year Student · Dehradun, India
-- 🤖 Specializing in **AI Engineering** — LLMs, RAG systems, Agentic AI
-- 🏗️ Full stack builder — FastAPI · PostgreSQL · React · Next.js
-- 🧩 Every project I build is **live, deployed, and production-grade**
-- 🌍 Open to global opportunities — UAE · Germany · Canada · Singapore · UK
+My work spans from architecting robust backends with Python and FastAPI, to crafting pixel-perfect, 60fps frontend interfaces with Next.js and React. I don't just write code—I ship products.
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts" />
-</p>
-
-### 🤖 AI / ML Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-</p>
+* **Education:** BCA @ GEHU
+* **Focus:** AI Engineering, Full Stack, Mobile (Flutter)
+* **Execution:** Meticulous execution, from architecture to the final pixel.
+* **Availability:** Seeking Internships & Open to global opportunities (UAE, Germany, Canada, Singapore, UK, USA)
 
 ---
 
-## 🚀 What I Build
-```
-User Request
-     │
-     ▼
-┌─────────────────────────────────────────┐
-│           Next.js Frontend              │
-│         Tailwind CSS · TypeScript       │
-└─────────────────────┬───────────────────┘
-                      │ REST API
-                      ▼
-┌─────────────────────────────────────────┐
-│           FastAPI Backend               │
-│     JWT Auth · Celery · Redis Cache     │
-└──────┬──────────────┬───────────────────┘
-       │              │
-       ▼              ▼
-┌──────────┐   ┌──────────────────────────┐
-│PostgreSQL│   │       AI Layer           │
-│ MongoDB  │   │  LangChain · ChromaDB    │
-└──────────┘   │  OpenAI API · RAG System │
-               │  Agentic AI · LLMOps     │
-               └──────────────────────────┘
-                      │
-                      ▼
-              Docker · AWS · Nginx
-              GitHub Actions CI/CD
-```
+##  Technologies & Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css,sql&theme=dark" />
+
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,flutter&theme=dark" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,redis,firebase,supabase&theme=dark" />
+
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<br />
+<br />
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=python&logoColor=white" />
+
+### Cloud, DevOps & Design
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,githubactions,figma&theme=dark" />
+
+</div>
 
 ---
 
-## 🎯 Expertise Areas
-```
-AI Engineering        ████████████████████  Production LLM Apps
-Full Stack Dev        ████████████████████  End-to-End Products
-Machine Learning      ███████████████░░░░░  Classical + Deep Learning
-Agentic AI            ████████████████████  Multi-step AI Agents
-LLMOps                ████████████░░░░░░░░  Deploy · Monitor · Govern
-DSA                   ███████████████░░░░░  LeetCode · Problem Solving
-System Design         ████████████░░░░░░░░  Scalable Architecture
-```
+##  Featured Work
 
----
+### ❖ UniExchange
+**Full Stack Marketplace** • `Next.js` `Supabase` `TypeScript` `Clerk`
+> A campus commerce platform that lets students buy, sell, lend, borrow, and offer services within their university — eliminating the friction of student commerce. Semi-finalist at GEHU Hackathon with 100+ users tested.
 
-## 🌍 Open To
+### ❖ CampusShield
+**Real-time Safety Platform** • `React.js` `Supabase` `TypeScript`
+> A real-time campus safety platform with SOS alerts, Safe Walk timer, and anonymous tip reporting — built to keep students safer on campus. Features real-time SOS, role-based dashboards, and a live map.
 
-<p>
-  <img src="https://img.shields.io/badge/🇦🇪_UAE-Open-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇩🇪_Germany-Open-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇨🇦_Canada-Open-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇸🇬_Singapore-Open-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇬🇧_UK-Open-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇺🇸_USA-Open-success?style=for-the-badge" />
-</p>
-
----
-
-## ⚡ Philosophy
-
-> *"I don't just learn technologies. I build products with them. Every concept I study gets shipped into something real."*
+### ❖ Verso
+**Mobile Sports Matchmaking** • `Flutter` `Firebase` `Dart`
+> A sports matchmaking and turf booking app helping teams discover opponents, schedule matches, and reserve turfs without the hassle. Real-time matchmaking built for iOS + Android.
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
+  <p><i>"Design is not just what it looks like and feels like. Design is how it works."</i></p>
+  <p>— Steve Jobs</p>
 </div>
